@@ -809,6 +809,10 @@ header
         left: 10px;
         top: 5289px;
     }
+    .profile-content
+    {
+        width: 300px;
+    }
     .footer
     {
         width: 445px;
