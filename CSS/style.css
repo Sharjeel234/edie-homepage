@@ -594,7 +594,7 @@ header
     .toggle
     {
         position: absolute;
-        left: 400px;
+        left: 325px;
         top: 1px;
         display: block;
         cursor: pointer;
@@ -816,7 +816,7 @@ header
     }
     .footer
     {
-        width: 445px;
+        width: 380px;
         height: 693px;
     }
     .footer-nav
